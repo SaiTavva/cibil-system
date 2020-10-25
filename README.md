@@ -1,4 +1,4 @@
-# cibil-system
+# Cibil-system
 
 ## Abstract:
 CIBIL stands for Credit Information Bureau India Limited. It was considered as India’s first Credit Information Company (CIC). Its main function is to maintain a database that contains records of every client. The records include Payment history, Credit Exposure, Credit Type and Duration, and other factors. On monthly basis all database is forward to CIBIL by small banks. The database is used to create (CIR) credit information report which help authority to check faulty members or clients. 
